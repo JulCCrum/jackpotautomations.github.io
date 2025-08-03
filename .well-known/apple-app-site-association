@@ -1,0 +1,9 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [{
+        "appID": "N9QB443496.jackpotautomations.fyi.Moneym8",
+        "paths": ["/plaid-redirect", "/plaid/*"]
+      }]
+    }
+  }
